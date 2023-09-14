@@ -55,5 +55,16 @@
             <td>3-4 hours</td>
         </tr>
     </table>
+    <hr>
+    <blockquote>Tracking the script execution time in PHP</blockquote>
+    <a href="https://stackoverflow.com/questions/535020/tracking-the-script-execution-time-in-php">Stackoverflow</a>
+    <pre>
+        $execution_time = microtime(); // Start counting
+
+        // Your code
+
+        $execution_time = microtime() - $execution_time;
+        printf('It took %.5f sec', $execution_time);
+    </pre>
 </body>
 </html>
