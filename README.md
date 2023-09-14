@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 <hr>
-Hosted at <a href="http://127.0.0.1:5501/index.html">WEBSITE</a>
+Hosted at <a href="file:///C:/Users/s567160/Documents/Sem%201%20Subjects/WebApps/webapps-repos/44563-webapps-f23-assignment3-srikarmiriyala/index.html">WEBSITE</a>
